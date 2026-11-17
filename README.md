@@ -120,3 +120,6 @@ git push origin v1.4.0
 
 Based on [gnirehtet](https://github.com/Genymobile/gnirehtet) by Genymobile (Apache 2.0).
 adb is part of Google's Android SDK Platform Tools.
+
+
+> Developed with AI-assisted coding tools (Claude/Anthropic)
